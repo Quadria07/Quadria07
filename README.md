@@ -1,13 +1,13 @@
 # Hi, I'm Quadri 👋  
 
-🚀 Frontend Developer | IoT Enthusiast | Cybersecurity & Networking | Tech Builder  
+Frontend Developer | IoT Enthusiast | Cybersecurity & Networking | Tech Builder  
 
-I’m passionate about building functional, user-friendly, and scalable projects — from web dashboards to IoT automation systems.  
+I’m passionate about building functional, user-friendly, and scalable projects - from web dashboards to IoT automation systems.  
 I love shipping MVPs quickly, experimenting with new tech, and solving real-world problems through code.  
 
 ---
 
-## 🔧 Tech Stack & Skills  
+## Tech Stack & Skills  
 
 **Frontend Development:**  
 - Next.js, React, Shadcn/UI, TailwindCSS, JavaScript, HTML, CSS  
@@ -29,9 +29,9 @@ I love shipping MVPs quickly, experimenting with new tech, and solving real-worl
 
 ---
 
-## 📌 Highlight Projects  
+## Highlight Projects  
 
-### 🌐 Web Applications  
+### Web Applications  
 - [CheckMyGrade](https://checkmygrade.com.ng/) – Student result management system  
 - [Mobile Tracking MVP](https://chic-biscotti-e00d60.netlify.app/) – Prototype tracking app  
 - [BTexloop Academy Test Site](https://test.btexloopacademy.com.ng/) – Online test platform for students  
@@ -39,20 +39,20 @@ I love shipping MVPs quickly, experimenting with new tech, and solving real-worl
 - [Edtech Website](https://btexloopacademy.com.ng/) – Edtech Website Btexloop Academy
 - NFT Website (Thirdweb API integration for lazy minting) – *Work in progress*  
 
-### 🤖 IoT Projects  
+### IoT Projects  
 - **Contactless Gesture Office Automation** – Control lights, fans, and appliances using hand gestures (APDS-9960 + Arduino Uno + Relay).  
 - **Smart Car** – Obstacle-avoiding car with autonomous movement (Ultrasonic sensors + Arduino).  
 - **Smart Street Lights** – Automatic on/off streetlight system with motion/ambient sensors.  
 - **Gas Leakage & Usage Monitoring** – IoT system to detect and monitor gas leaks and usage.  
 - **Traffic Light System** – With 6 LEDs and LCD countdown display showing instructions.  
 
-### 🛡️ Cybersecurity & Networking  
+### Cybersecurity & Networking  
 - **Final Year Project:** Real-Time Intrusion Detection System – Using Python (Scikit-Learn, Isolation Forest) + Flask + Visualization tools.  
 - Hands-on projects in **Networking Essentials** (routing, switching, TCP/IP configs).  
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 ![Quadri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quadria07&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quadria07&layout=compact&theme=radical)  
 
