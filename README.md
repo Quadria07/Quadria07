@@ -51,8 +51,7 @@ I love shipping MVPs quickly, experimenting with new tech, and solving real-worl
 ---
 
 ## 📫 Connect with Me  
-- GitHub: [Quadria07](https://github.com/Quadria07)  
+- GitHub: [Quadria07](https://github.com/Quadria07)
+- Portfolio [Quadriade(https://quadriade.netlify.app/)]
 - LinkedIn: [Adebisi (Damilare) Quadri](https://www.linkedin.com/in/adebisi-quadri-dray07/)
 - Email: quadriadebisi3@gmail.com
-
----
